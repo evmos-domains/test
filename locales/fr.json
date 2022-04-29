@@ -142,11 +142,11 @@
       "title": "Enregistrer vos noms favoris"
     },
     "manage": {
-      "text": "Pointez les domaines vers vos adresses ethereum, transférez la propriété à d'autres personnes et plus encore.",
+      "text": "Pointez les domaines vers vos adresses evmos, transférez la propriété à d'autres personnes et plus encore.",
       "title": "Gérer les noms"
     },
     "register": {
-      "text": "Enregistrez des noms .eth pour 5 $ / an. Renouvelez ou annulez votre inscription à tout moment.",
+      "text": "Enregistrez des noms .evmos pour 5 $ / an. Renouvelez ou annulez votre inscription à tout moment.",
       "title": "Enregistrer des noms"
     },
     "search": {
@@ -304,7 +304,7 @@
         "title": "2. Set other records"
       },
       "step3": {
-        "text": "You can host your static html/css/images on IPFS and put the hash in your ENS name's Content record. Then it can be resolved by ENS-aware browsers (e.g. Opera), browser extensions (Metamask), or any browser with '.link' appended to the end (e.g. ens.eth.link).",
+        "text": "You can host your static html/css/images on IPFS and put the hash in your ENS name's Content record. Then it can be resolved by ENS-aware browsers (e.g. Opera), browser extensions (Metamask), or any browser with '.link' appended to the end (e.g. ens.evmos.link).",
         "title": "3. Set a content hash of a decentralized website"
       },
       "title": "Learn how to manage your name."
